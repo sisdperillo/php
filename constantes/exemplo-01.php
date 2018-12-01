@@ -1,0 +1,10 @@
+<?php
+
+	//DECLARA UMA VARIAVEL CONSTANTE.
+	define("SERVIDOR", "192.168.1.1");
+	
+	//NAO PRECISA DO $ PARA EXIBIR
+	
+	echo SERVIDOR;
+	
+?>
