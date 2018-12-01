@@ -1,5 +1,6 @@
 <?php
 	
-	echo "Ola mundo";
+	echo "Arquivo";
+	echo "Eu alterei este arquivo";
 	
 ?>
